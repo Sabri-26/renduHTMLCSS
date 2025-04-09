@@ -44,8 +44,20 @@ text-align: center;
 padding: 20px;
 }
 .card{
-    text-align: left;    
+    text-align: left;
+    box-shadow: 5px 5px 20px;    
+    border-radius: 5px;
+    img{
+    width: 100%;
+    height: 57%;
+}
     
 }
+.cancre{
+    display: flex;
+    justify-content: space-around;
+
+}
+
     
     
