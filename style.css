@@ -81,6 +81,15 @@ textarea{
         width: 100%;
     }
 }
+footer{
+    margin-top: 30px;
+    padding: 40px;
+    background-color: #46352a;
+    justify-items: center;
+    h6{
+        color: white;
+    }
+}
 
 
 
