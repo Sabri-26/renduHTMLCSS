@@ -58,6 +58,31 @@ padding: 20px;
     justify-content: space-around;
 
 }
+form{
+    width: 33%;
+    padding: 3%;
+}
+#formSection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.firstRow{
+    display: flex;
+
+}
+textarea{
+    width: 100%;
+    height: 100px;
+}
+.form-example {
+    width: 50%;
+    input {
+        width: 100%;
+    }
+}
+
+
 
     
     
