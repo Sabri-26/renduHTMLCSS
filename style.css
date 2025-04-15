@@ -1,7 +1,7 @@
 *{
     padding: 0;
     margin: 0;
-    /* border: 1px solid red; */
+   
 }
 
 #hero{
@@ -22,6 +22,11 @@ list-style-type: none;
 display: flex;
 justify-content: space-between;
 width: 33%;
+text-decoration: none;
+}
+
+.lien1{
+    text-decoration: dashed;
 }
 #divhero{
     display: flex;
