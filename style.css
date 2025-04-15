@@ -7,7 +7,7 @@
 #hero{
     display: flex;
     gap: 10%;
-    background-color: #a52a2a65;
+    background-color: #46352a;
 }
 #imghero{
     width: 50%;
@@ -89,6 +89,9 @@ footer{
     h6{
         color: white;
     }
+}
+h1{
+    color: white;
 }
 
 
